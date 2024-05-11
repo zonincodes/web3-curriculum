@@ -1,1 +1,35 @@
 
+cd learn-digital-ledgers-by-building-a-blockchain/
+touch init-blockchain.js
+node init-blockchain.js 
+touch blockchain-helpers.js
+node init-blockchain.js 
+touch add-block.js
+node add-block.js 
+touch validate-chain.js
+code validate-chain.js 
+node validate-chain.js 
+git add . && git commit -m "validate blockchain"
+git push
+node validate-chain.js 
+node add-block.js 
+node add-block.js Me You 10
+node add-block.js Me You 20
+node add-block.js Me You 30
+node validate-chain.js 
+touch add-transaction.js
+node add-transaction.js You Me 5
+node add-transaction.js You Me 15
+node add-transaction.js You Me 25
+node add-transaction.js You Me 35
+node add-block.js 
+node add-transaction.js You Me 2
+node add-transaction.js Me You 2
+node add-transaction.js Me You 4
+node add-transaction.js Me You 6
+node add-block.js 
+node validate-chain.js 
+git add . && git commit -m "completed learning digital ledgers by building a blockchain"
+git push
+git push
+cd ~

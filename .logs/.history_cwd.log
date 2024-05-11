@@ -1,0 +1,48 @@
+/workspace/web3-curriculum$
+/workspace/web3-curriculum$
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 1 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 2 touch init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 3 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 4 touch blockchain-helpers.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 node init-blockchain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 6 touch add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 8 touch validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 code validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 code validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 9 code validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 10 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 10 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 10 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 10 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 11 git add . && git commit -m "validate blockchain"
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 12 git push
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 13 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 14 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 15 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 15 node add-block.js Me You 10
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 16 node add-block.js Me You 20
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 17 node add-block.js Me You 30
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 18 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 19 touch add-transaction.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 20 node add-transaction.js You Me 5
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 21 node add-transaction.js You Me 15
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 22 node add-transaction.js You Me 25
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 23 node add-transaction.js You Me 35
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 24 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 25 node add-transaction.js You Me 2
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 26 node add-transaction.js Me You 2
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 27 node add-transaction.js Me You 4
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 28 node add-transaction.js Me You 6
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 29 node add-block.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 30 node validate-chain.js
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 31 git add . && git commit -m "completed learning digital ledgers by building a blockchain"
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 32 git push
+/workspace/web3-curriculum$ 1 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 2 git push
+/workspace/web3-curriculum$ 2 exit
+/root$ 3 cd ~
