@@ -1,7 +1,7 @@
-import { isValidChain } from "./blockchain-helpers.js";
+import { isValidChain } from './blockchain-helpers.js';
 
-if (isValidChain()){
-    console.log("Chain is valid")
+if (isValidChain()) {
+  console.log('Chain is valid');
 } else {
-    console.log("Chain is not valid")
+  console.log('Chain is not valid');
 }

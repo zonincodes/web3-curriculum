@@ -33,3 +33,75 @@ git add . && git commit -m "completed learning digital ledgers by building a blo
 git push
 git push
 cd ~
+cd learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+ls
+mv * ../learn-digital-ledgers-by-building-a-blockchain/
+git add . && git commit -m "fix: "
+clear
+ls
+cd learn-digital-ledgers-by-building-a-blockchain/
+ls
+cp * ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/ .
+cp * ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/ 
+cd ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+node add-transaction.js You Me 100
+node add-block.js 
+node validate-chain.js 
+touch mine-block.js
+rm add-block.js 
+npm install crypto-js
+ls
+cd learn-digital-ledgers-by-building-a-blockchain/
+ls
+cp add-block.js ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+rm mine-block.js 
+node mine-block.js 
+node add-transaction.js You Me 12
+node mine-block.js 
+node add-transaction.js You Me 24
+node mine-block.js 
+node init-blockchain.js 
+node add-transaction.js You Me 12
+node add-transaction.js You Me 16
+node mine-block.js 
+node add-transaction.js You Me 20
+node mine-block.js 
+node add-transaction.js You Me 10
+node mine-block.js 
+node validate-chain.js 
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+node init-blockchain.js 
+node add-transaction.js You Me 15
+node add-transaction.js You Me 25
+node mine-block
+node mine-block.js 
+node add-transaction.js You Me 5
+node add-transaction.js You Me 10
+node mine-block.js 
+node validate-chain.js 
+touch get-address-balance
+touch get-address-balance.js
+rm get-address-balance
+code  get-address-balance
+code  get-address-balance.js 
+node get-address-balance.js Me
+node get-address-balance.js You
+node init-blockchain.js 
+node add-transaction.js Me You 40
+node get-address-balance.js Me
+node get-address-balance.js You
+node mine-block.js 
+node get-address-balance.js Me
+node add-transaction.js Me You 40
+node get-address-balance.js Me
+node mine-block.js 
+node get-address-balance.js Me
+node get-address-balance.js You
+node add-transaction.js Me I 5
+git add . && git commit -m "completed Proof of Work consensus by building a block mining algorithm"
+git push
+cd ../
+git branch
+cd web3-curriculum/
+ls
+git status

@@ -46,3 +46,97 @@
 /workspace/web3-curriculum$ 2 git push
 /workspace/web3-curriculum$ 2 exit
 /root$ 3 cd ~
+/workspace/web3-curriculum$ 2 exit
+/workspace/web3-curriculum$ 2 exit
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 3 cd learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 4 ls
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 5 mv * ../learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 6 git add . && git commit -m "fix: "
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 7 clear
+/workspace/web3-curriculum$ 3 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 3 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 4 ls
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 6 ls
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 cp add-block.js add-transaction.js blockchain-helpers.js blockchain.json init-blockchain.js transactions.json validate-chain.js ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/ .
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 8 cp add-block.js add-transaction.js blockchain-helpers.js blockchain.json init-blockchain.js transactions.json validate-chain.js ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+/workspace/web3-curriculum$ 3 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 9 cd ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 10 node add-transaction.js You Me 100
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 11 node add-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 12 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 13 touch mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 14 rm add-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 15 npm install crypto-js
+/workspace/web3-curriculum$ 3 cd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+/workspace/web3-curriculum$ 4 ls
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 5 cd learn-digital-ledgers-by-building-a-blockchain/
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 6 ls
+/workspace/web3-curriculum/learn-digital-ledgers-by-building-a-blockchain$ 7 cp add-block.js ../learn-proof-of-work-consensus-by-building-a-block-mining-algorithm/
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 16 rm mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 16 rm mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 17 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 18 node add-transaction.js You Me 12
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 19 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 20 node add-transaction.js You Me 24
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 21 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 21 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 21 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 21 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 21 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 22 node init-blockchain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 23 node add-transaction.js You Me 12
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 24 node add-transaction.js You Me 16
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 25 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 26 node add-transaction.js You Me 20
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 27 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 28 node add-transaction.js You Me 10
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 29 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 30 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 30 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 30 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 31 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 32 node init-blockchain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 33 node add-transaction.js You Me 15
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 34 node add-transaction.js You Me 25
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 35 node mine-block
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 36 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 37 node add-transaction.js You Me 5
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 38 node add-transaction.js You Me 10
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 39 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 40 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 40 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 40 node validate-chain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 41 touch get-address-balance
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 42 touch get-address-balance.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 43 rm get-address-balance
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 44 code get-address-balance
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 45 code get-address-balance.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 46 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 47 node get-address-balance.js You
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 48 node init-blockchain.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 49 node add-transaction.js Me You 40
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 50 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 51 node get-address-balance.js You
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 52 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 52 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 53 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 54 node add-transaction.js Me You 40
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 55 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 56 node mine-block.js
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 57 node get-address-balance.js Me
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 58 node get-address-balance.js You
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 59 node add-transaction.js Me I 5
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 60 git add . && git commit -m "completed Proof of Work consensus by building a block mining algorithm"
+/workspace/web3-curriculum/learn-proof-of-work-consensus-by-building-a-block-mining-algorithm$ 61 git push
+/workspace/web3-curriculum$ 62 cd ../
+/workspace$ 62 cd ../
+/workspace$ 63 git branch
+/workspace/web3-curriculum$ 64 cd web3-curriculum/
+/workspace/web3-curriculum$ 65 ls
+/workspace/web3-curriculum$ 66 git status

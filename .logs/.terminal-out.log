@@ -1,2 +1,24 @@
-[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (main) $ exitcd . && NODE_ENV=production node ./node_modules/@freecodecamp/freecodecamp-os/.freeCoddeCamp/tooling/server.js[A[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (main) $ exit[K
-[K[A[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (main) $ exit[Kcd ~
+[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (main) $ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .logs/.bash_history.log
+	modified:   .logs/.cwd.log
+	modified:   .logs/.history_cwd.log
+	modified:   .logs/.temp.log
+	modified:   .logs/.terminal-out.log
+	modified:   .vscode/settings.json
+	modified:   config/projects.json
+	modified:   learn-digital-ledgers-by-building-a-blockchain/add-block.js
+	modified:   learn-digital-ledgers-by-building-a-blockchain/add-transaction.js
+	modified:   learn-digital-ledgers-by-building-a-blockchain/blockchain-helpers.js
+	modified:   learn-digital-ledgers-by-building-a-blockchain/blockchain.json
+	modified:   learn-digital-ledgers-by-building-a-blockchain/init-blockchain.js
+	modified:   learn-digital-ledgers-by-building-a-blockchain/validate-chain.js
+	modified:   package-lock.json
+	modified:   package.json
+
+no changes added to commit (use "git add" and/or "git commit -a")
